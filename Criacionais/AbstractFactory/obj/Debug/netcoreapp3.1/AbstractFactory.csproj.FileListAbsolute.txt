@@ -10,3 +10,16 @@ E:\Meus Projetos\DesignPatterns\Criacionais\AbstractFactory\bin\Debug\netcoreapp
 E:\Meus Projetos\DesignPatterns\Criacionais\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
 E:\Meus Projetos\DesignPatterns\Criacionais\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
 E:\Meus Projetos\DesignPatterns\Criacionais\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.genruntimeconfig.cache
+E:\Github\DesignPatterns\Criacionais\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+E:\Github\DesignPatterns\Criacionais\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+E:\Github\DesignPatterns\Criacionais\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+E:\Github\DesignPatterns\Criacionais\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+E:\Github\DesignPatterns\Criacionais\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+E:\Github\DesignPatterns\Criacionais\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+E:\Github\DesignPatterns\Criacionais\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
+E:\Github\DesignPatterns\Criacionais\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.CoreCompileInputs.cache
+E:\Github\DesignPatterns\Criacionais\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+E:\Github\DesignPatterns\Criacionais\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+E:\Github\DesignPatterns\Criacionais\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+E:\Github\DesignPatterns\Criacionais\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+E:\Github\DesignPatterns\Criacionais\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\FactoryMethod\\FactoryMethod.csproj": {}
+    "E:\\Github\\DesignPatterns\\Criacionais\\FactoryMethod\\FactoryMethod.csproj": {}
   },
   "projects": {
-    "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\FactoryMethod\\FactoryMethod.csproj": {
+    "E:\\Github\\DesignPatterns\\Criacionais\\FactoryMethod\\FactoryMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\FactoryMethod\\FactoryMethod.csproj",
+        "projectUniqueName": "E:\\Github\\DesignPatterns\\Criacionais\\FactoryMethod\\FactoryMethod.csproj",
         "projectName": "FactoryMethod",
-        "projectPath": "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\FactoryMethod\\FactoryMethod.csproj",
+        "projectPath": "E:\\Github\\DesignPatterns\\Criacionais\\FactoryMethod\\FactoryMethod.csproj",
         "packagesPath": "C:\\Users\\Marcela\\.nuget\\packages\\",
-        "outputPath": "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\FactoryMethod\\obj\\",
+        "outputPath": "E:\\Github\\DesignPatterns\\Criacionais\\FactoryMethod\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

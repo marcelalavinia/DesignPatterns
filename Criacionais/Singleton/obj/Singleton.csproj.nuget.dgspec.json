@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\Singleton\\Singleton.csproj": {}
+    "E:\\Github\\DesignPatterns\\Criacionais\\Singleton\\Singleton.csproj": {}
   },
   "projects": {
-    "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\Singleton\\Singleton.csproj": {
+    "E:\\Github\\DesignPatterns\\Criacionais\\Singleton\\Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\Singleton\\Singleton.csproj",
+        "projectUniqueName": "E:\\Github\\DesignPatterns\\Criacionais\\Singleton\\Singleton.csproj",
         "projectName": "Singleton",
-        "projectPath": "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\Singleton\\Singleton.csproj",
+        "projectPath": "E:\\Github\\DesignPatterns\\Criacionais\\Singleton\\Singleton.csproj",
         "packagesPath": "C:\\Users\\Marcela\\.nuget\\packages\\",
-        "outputPath": "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\Singleton\\obj\\",
+        "outputPath": "E:\\Github\\DesignPatterns\\Criacionais\\Singleton\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

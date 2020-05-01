@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VH87cyPAAf/zOciBcZXZFQIHjjFbNd1oUtn2BjOUslTyXGPC9j5P9rKmuKbKAN9dZ95sRYXbSTkNdja5RuKOQA==",
+  "dgSpecHash": "AaeyCXsBiMtBGL3BeF3iNw9vASr+59IWRd9Ko4KkzpnkoNYwFPJ3D47lC5ydgsjufFZu2rov4/Ma3kd2Dl6aHA==",
   "success": true,
-  "projectFilePath": "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\Prototype\\Prototype.csproj",
+  "projectFilePath": "E:\\Github\\DesignPatterns\\Criacionais\\Prototype\\Prototype.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

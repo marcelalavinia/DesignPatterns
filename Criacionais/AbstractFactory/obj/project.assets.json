@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\AbstractFactory\\AbstractFactory.csproj",
+      "projectUniqueName": "E:\\Github\\DesignPatterns\\Criacionais\\AbstractFactory\\AbstractFactory.csproj",
       "projectName": "AbstractFactory",
-      "projectPath": "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\AbstractFactory\\AbstractFactory.csproj",
+      "projectPath": "E:\\Github\\DesignPatterns\\Criacionais\\AbstractFactory\\AbstractFactory.csproj",
       "packagesPath": "C:\\Users\\Marcela\\.nuget\\packages\\",
-      "outputPath": "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\AbstractFactory\\obj\\",
+      "outputPath": "E:\\Github\\DesignPatterns\\Criacionais\\AbstractFactory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

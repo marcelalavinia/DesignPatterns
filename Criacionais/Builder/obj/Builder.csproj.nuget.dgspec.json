@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\Builder\\Builder.csproj": {}
+    "E:\\Github\\DesignPatterns\\Criacionais\\Builder\\Builder.csproj": {}
   },
   "projects": {
-    "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\Builder\\Builder.csproj": {
+    "E:\\Github\\DesignPatterns\\Criacionais\\Builder\\Builder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\Builder\\Builder.csproj",
+        "projectUniqueName": "E:\\Github\\DesignPatterns\\Criacionais\\Builder\\Builder.csproj",
         "projectName": "Builder",
-        "projectPath": "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\Builder\\Builder.csproj",
+        "projectPath": "E:\\Github\\DesignPatterns\\Criacionais\\Builder\\Builder.csproj",
         "packagesPath": "C:\\Users\\Marcela\\.nuget\\packages\\",
-        "outputPath": "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\Builder\\obj\\",
+        "outputPath": "E:\\Github\\DesignPatterns\\Criacionais\\Builder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

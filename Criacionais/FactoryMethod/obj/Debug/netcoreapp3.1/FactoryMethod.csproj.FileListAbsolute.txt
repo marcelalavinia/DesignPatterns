@@ -10,3 +10,16 @@ E:\Meus Projetos\DesignPatterns\Criacionais\FactoryMethod\obj\Debug\netcoreapp3.
 E:\Meus Projetos\DesignPatterns\Criacionais\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
 E:\Meus Projetos\DesignPatterns\Criacionais\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
 E:\Meus Projetos\DesignPatterns\Criacionais\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.genruntimeconfig.cache
+E:\Github\DesignPatterns\Criacionais\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+E:\Github\DesignPatterns\Criacionais\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+E:\Github\DesignPatterns\Criacionais\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+E:\Github\DesignPatterns\Criacionais\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+E:\Github\DesignPatterns\Criacionais\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+E:\Github\DesignPatterns\Criacionais\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+E:\Github\DesignPatterns\Criacionais\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csprojAssemblyReference.cache
+E:\Github\DesignPatterns\Criacionais\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.CoreCompileInputs.cache
+E:\Github\DesignPatterns\Criacionais\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+E:\Github\DesignPatterns\Criacionais\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+E:\Github\DesignPatterns\Criacionais\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+E:\Github\DesignPatterns\Criacionais\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
+E:\Github\DesignPatterns\Criacionais\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.genruntimeconfig.cache

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EaqMj8AP6PtOHWGNDqIZJLaa54sB1lJoEFIFvPI4qEyT6/p0NBoj/fCVpd+yer7TOIWm4trz5MNsHc1HdNYieA==",
+  "dgSpecHash": "w4B6kJUY5MIVynkLuGhAdYBITnqO9QcHTBHZ4jK/brYsLdgK6l1F5gd4KWPCfb9G+2XGHzS3oF+qcTm5WvPUVA==",
   "success": true,
-  "projectFilePath": "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\AbstractFactory\\AbstractFactory.csproj",
+  "projectFilePath": "E:\\Github\\DesignPatterns\\Criacionais\\AbstractFactory\\AbstractFactory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

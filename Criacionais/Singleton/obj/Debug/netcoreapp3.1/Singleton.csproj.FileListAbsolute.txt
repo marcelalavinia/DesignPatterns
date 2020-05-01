@@ -10,3 +10,15 @@ E:\Meus Projetos\DesignPatterns\Criacionais\Singleton\obj\Debug\netcoreapp3.1\Si
 E:\Meus Projetos\DesignPatterns\Criacionais\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
 E:\Meus Projetos\DesignPatterns\Criacionais\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
 E:\Meus Projetos\DesignPatterns\Criacionais\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache
+E:\Github\DesignPatterns\Criacionais\Singleton\bin\Debug\netcoreapp3.1\Singleton.exe
+E:\Github\DesignPatterns\Criacionais\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+E:\Github\DesignPatterns\Criacionais\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.json
+E:\Github\DesignPatterns\Criacionais\Singleton\bin\Debug\netcoreapp3.1\Singleton.runtimeconfig.dev.json
+E:\Github\DesignPatterns\Criacionais\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+E:\Github\DesignPatterns\Criacionais\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+E:\Github\DesignPatterns\Criacionais\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+E:\Github\DesignPatterns\Criacionais\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+E:\Github\DesignPatterns\Criacionais\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+E:\Github\DesignPatterns\Criacionais\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+E:\Github\DesignPatterns\Criacionais\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+E:\Github\DesignPatterns\Criacionais\Singleton\obj\Debug\netcoreapp3.1\Singleton.genruntimeconfig.cache

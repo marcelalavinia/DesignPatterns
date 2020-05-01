@@ -10,3 +10,16 @@ E:\Meus Projetos\DesignPatterns\Criacionais\Builder\obj\Debug\netcoreapp3.1\Buil
 E:\Meus Projetos\DesignPatterns\Criacionais\Builder\obj\Debug\netcoreapp3.1\Builder.dll
 E:\Meus Projetos\DesignPatterns\Criacionais\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
 E:\Meus Projetos\DesignPatterns\Criacionais\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache
+E:\Github\DesignPatterns\Criacionais\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+E:\Github\DesignPatterns\Criacionais\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+E:\Github\DesignPatterns\Criacionais\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+E:\Github\DesignPatterns\Criacionais\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+E:\Github\DesignPatterns\Criacionais\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+E:\Github\DesignPatterns\Criacionais\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+E:\Github\DesignPatterns\Criacionais\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+E:\Github\DesignPatterns\Criacionais\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+E:\Github\DesignPatterns\Criacionais\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+E:\Github\DesignPatterns\Criacionais\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+E:\Github\DesignPatterns\Criacionais\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+E:\Github\DesignPatterns\Criacionais\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+E:\Github\DesignPatterns\Criacionais\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\Github\DesignPatterns\Criacionais\Prototype\bin\Debug\netcoreapp3.1\Prototype.exe
+E:\Github\DesignPatterns\Criacionais\Prototype\bin\Debug\netcoreapp3.1\Prototype.deps.json
+E:\Github\DesignPatterns\Criacionais\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.json
+E:\Github\DesignPatterns\Criacionais\Prototype\bin\Debug\netcoreapp3.1\Prototype.runtimeconfig.dev.json
+E:\Github\DesignPatterns\Criacionais\Prototype\bin\Debug\netcoreapp3.1\Prototype.dll
+E:\Github\DesignPatterns\Criacionais\Prototype\bin\Debug\netcoreapp3.1\Prototype.pdb
+E:\Github\DesignPatterns\Criacionais\Prototype\obj\Debug\netcoreapp3.1\Prototype.csprojAssemblyReference.cache
+E:\Github\DesignPatterns\Criacionais\Prototype\obj\Debug\netcoreapp3.1\Prototype.csproj.CoreCompileInputs.cache
+E:\Github\DesignPatterns\Criacionais\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfoInputs.cache
+E:\Github\DesignPatterns\Criacionais\Prototype\obj\Debug\netcoreapp3.1\Prototype.AssemblyInfo.cs
+E:\Github\DesignPatterns\Criacionais\Prototype\obj\Debug\netcoreapp3.1\Prototype.dll
+E:\Github\DesignPatterns\Criacionais\Prototype\obj\Debug\netcoreapp3.1\Prototype.pdb
+E:\Github\DesignPatterns\Criacionais\Prototype\obj\Debug\netcoreapp3.1\Prototype.genruntimeconfig.cache

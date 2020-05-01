@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X3A1yyLOe9XUjkVTmBjTsSUfREwF4klFVpvviqdMIh2CQakQeckZwTmL25eqhRKNuaZTdPNkEYIbhBhVgwaRUg==",
+  "dgSpecHash": "W7SnASlfwI361gltDXZEx/XMA9MfkNfh/zw29rLvynbuasOF1rBvLm0X4pvhrD6Ug5XuG05ygjHz+NOBv5M0EQ==",
   "success": true,
-  "projectFilePath": "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\Builder\\Builder.csproj",
+  "projectFilePath": "E:\\Github\\DesignPatterns\\Criacionais\\Builder\\Builder.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

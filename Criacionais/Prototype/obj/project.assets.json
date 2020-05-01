@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\Prototype\\Prototype.csproj",
+      "projectUniqueName": "E:\\Github\\DesignPatterns\\Criacionais\\Prototype\\Prototype.csproj",
       "projectName": "Prototype",
-      "projectPath": "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\Prototype\\Prototype.csproj",
+      "projectPath": "E:\\Github\\DesignPatterns\\Criacionais\\Prototype\\Prototype.csproj",
       "packagesPath": "C:\\Users\\Marcela\\.nuget\\packages\\",
-      "outputPath": "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\Prototype\\obj\\",
+      "outputPath": "E:\\Github\\DesignPatterns\\Criacionais\\Prototype\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

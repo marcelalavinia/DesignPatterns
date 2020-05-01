@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "elU0yHfolllBAIKXj6B0etaj8GW91uvC/qyf2tJ4ujaHy0OarSSl4igx6dQtRUA7Ubh9jJcL9JsJjwpTtdMrlA==",
+  "dgSpecHash": "HUAPwFXZjJD9eK3d9srTW/Q7dbbMK/4SosTfb7YFjrN9GN7WNcVOaDfaVXMZ0WtK2vlh5i8VOhDT0r4AUD/dJg==",
   "success": true,
-  "projectFilePath": "E:\\Meus Projetos\\DesignPatterns\\Criacionais\\Singleton\\Singleton.csproj",
+  "projectFilePath": "E:\\Github\\DesignPatterns\\Criacionais\\Singleton\\Singleton.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
