@@ -1,0 +1,12 @@
+E:\Meus Projetos\DesignPatterns\Criacionais\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.CoreCompileInputs.cache
+E:\Meus Projetos\DesignPatterns\Criacionais\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+E:\Meus Projetos\DesignPatterns\Criacionais\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+E:\Meus Projetos\DesignPatterns\Criacionais\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+E:\Meus Projetos\DesignPatterns\Criacionais\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+E:\Meus Projetos\DesignPatterns\Criacionais\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+E:\Meus Projetos\DesignPatterns\Criacionais\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+E:\Meus Projetos\DesignPatterns\Criacionais\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+E:\Meus Projetos\DesignPatterns\Criacionais\AbstractFactory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+E:\Meus Projetos\DesignPatterns\Criacionais\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+E:\Meus Projetos\DesignPatterns\Criacionais\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+E:\Meus Projetos\DesignPatterns\Criacionais\AbstractFactory\obj\Debug\netcoreapp3.1\AbstractFactory.genruntimeconfig.cache
